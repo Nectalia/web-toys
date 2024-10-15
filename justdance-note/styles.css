@@ -1,0 +1,160 @@
+/*!*********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/Components/user-interface.scss ***!
+  \*********************************************************************************************************************************************************/
+#user-interface__ui--l8Z9H {
+  height: 100%;
+}
+
+#user-interface__layout--t3Mgr {
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-flow: row-reverse;
+}
+
+#user-interface__main--wVweE {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-flow: column;
+  background-color: #f8f8f8;
+}
+
+#user-interface__header--JgSIt {
+  width: 100%;
+  padding: 10px 20px;
+  font-weight: bold;
+  background-color: white;
+  border-bottom: 1px solid #dadada;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.05);
+}
+
+#user-interface__content--fjZhs {
+  width: 100%;
+  min-width: calc(100% - 60px);
+  flex-grow: 1;
+}
+#user-interface__content--fjZhs #user-interface__song-list--O59oO {
+  width: 100%;
+  height: 600px;
+  border-collapse: collapse;
+}
+#user-interface__content--fjZhs #user-interface__song-list-items--xvbDm {
+  overflow-y: scroll;
+  display: block;
+  height: calc(100vh - 120px);
+}
+#user-interface__content--fjZhs .user-interface__song--xtMnS,
+#user-interface__content--fjZhs .user-interface__song-head--AxExS {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-flow: row;
+  padding: 20px 10px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #dadada;
+  gap: 20px;
+  letter-spacing: 0.05em;
+}
+#user-interface__content--fjZhs .user-interface__song--xtMnS .user-interface__song-meta--uhMCz,
+#user-interface__content--fjZhs .user-interface__song-head--AxExS .user-interface__song-meta--uhMCz {
+  width: 150px;
+  min-width: 150px;
+  text-align: center;
+}
+#user-interface__content--fjZhs .user-interface__song--xtMnS .user-interface__song-info--RCyHT,
+#user-interface__content--fjZhs .user-interface__song-head--AxExS .user-interface__song-info--RCyHT {
+  flex-grow: 1;
+}
+#user-interface__content--fjZhs .user-interface__song--xtMnS .user-interface__l1--N3LZi,
+#user-interface__content--fjZhs .user-interface__song-head--AxExS .user-interface__l1--N3LZi {
+  display: block;
+  color: #808080;
+  font-size: 1.1em;
+  user-select: none;
+}
+#user-interface__content--fjZhs .user-interface__song--xtMnS .user-interface__l2--EArMO,
+#user-interface__content--fjZhs .user-interface__song-head--AxExS .user-interface__l2--EArMO {
+  display: block;
+  color: black;
+  font-size: 1.5em;
+}
+#user-interface__content--fjZhs .user-interface__song--xtMnS .user-interface__song-dif--R7bKy {
+  width: 100px;
+  min-width: 150px;
+  font-size: 1.8em;
+  text-align: center;
+  user-select: none;
+}
+#user-interface__content--fjZhs .user-interface__song-head--AxExS {
+  padding: 5px 10px;
+  border-radius: 4px 4px 0 0;
+}
+#user-interface__content--fjZhs .user-interface__song-head--AxExS .user-interface__song-dif--R7bKy {
+  width: 100px;
+  min-width: 150px;
+  margin-right: 15px;
+  font-size: 1.1em;
+  text-align: center;
+}
+
+#user-interface__footer--NVRV3 {
+  width: 100%;
+  padding: 8px 0;
+  color: white;
+  text-align: center;
+  background-color: #202020;
+}
+
+#user-interface__aside--fwCGF {
+  width: 100px;
+  height: 100%;
+  color: white;
+  background-color: #303030;
+  border-right: 1px solid #dadada;
+}
+/*!**************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/global.scss ***!
+  \**************************************************************************************************************************************/
+html,
+body {
+  width: 100%;
+  min-width: 950px;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+  font-size: 14px;
+  color: #101010;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+html,
+body,
+div,
+main,
+header,
+footer,
+table,
+tr,
+th,
+td {
+  box-sizing: border-box;
+}
+
+#global__uiroot--N_PyA {
+  height: 100%;
+}
+
+.global__widget--LVX9b {
+  display: inline-block;
+  padding: 20px 30px;
+  background-color: white;
+  border: 1px solid #dadada;
+  border-radius: 4px;
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.03);
+}

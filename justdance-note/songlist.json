@@ -1,0 +1,204 @@
+{
+    "Difficulty": {
+        "1": "準備運動",
+        "2": "パターンが少なく覚えやすい",
+        "3": "覚えれば楽しく踊れる",
+        "4": "覚えてもムズい",
+        "5": "強い運動",
+        "6": "キツめの運動"
+    },
+    "SongList": [
+        {
+            "Number": "0199",
+            "Artist": "Ariana Grande",
+            "SongName": "34+35 (Remix) ft. Doja Cat, Megan Theee Stallionubblegum",
+            "Title": "[Fitness Marshall]Ariana Grande - 34+35 (Remix) ft. Doja Cat, Megan Theee Stallion",
+            "Platform": "Fitness Marshall",
+            "Difficulty": 3
+        },
+        {
+            "Number": "0232",
+            "Artist": "Jason Derulo",
+            "SongName": "Bubblegum",
+            "Title": "[Fitness Marshall]Bubblegum - Jason Derulo",
+            "Platform": "Fitness Marshall",
+            "Difficulty": 5
+        },
+        {
+            "Number": "0264",
+            "Artist": "*",
+            "SongName": "Drive",
+            "Title": "[Fitness Marshall]Drive",
+            "Platform": "Fitness Marshall",
+            "Difficulty": 1
+        },
+        {
+            "Number": "0266",
+            "Artist": "Dua Lipa",
+            "SongName": "Break My Heart",
+            "Title": "[Fitness Marshall]Dua Lipa - Break My Heart",
+            "Platform": "Fitness Marshall",
+            "Difficulty": 3
+        },
+        {
+            "Number": "0476",
+            "Artist": "Zedd & Jasmine Thompson",
+            "SongName": "Funny",
+            "Title": "[Fitness Marshall]Zedd & Jasmine Thompson - Funny",
+            "Platform": "Fitness Marshall",
+            "Difficulty": 3
+        },
+        {
+            "Number": "2224",
+            "Artist": "Skrillex",
+            "SongName": "Bangarang",
+            "Title": "[Just Dance]Bangarang",
+            "Platform": "JustDance",
+            "Difficulty": 5
+        },
+        {
+            "Number": "2203",
+            "Artist": "Queen",
+            "SongName": "Another One Bites the Dust",
+            "Title": "[Just Dance]Another One Bites the Dust",
+            "Platform": "JustDance",
+            "Difficulty": 2
+        },
+        {
+            "Number": "2315",
+            "Artist": "Tones And I",
+            "SongName": "Dance Monkey",
+            "Title": "[Just Dance]Dance Monkey",
+            "Platform": "JustDance",
+            "Difficulty": 4
+        },
+        {
+            "Number": "2384",
+            "Artist": "PSY",
+            "SongName": "Gentleman",
+            "Title": "[Just Dance]Gentleman[Sweat]",
+            "Platform": "JustDance",
+            "Difficulty": 3
+        },
+        {
+            "Number": "2565",
+            "Artist": "VAVA",
+            "SongName": "My New Swag (我的新衣) featuring Ty. & Nina Wang (王倩倩)",
+            "Title": "[Just Dance]My New Swag (我的新衣)",
+            "Platform": "JustDance",
+            "Difficulty": 4
+        },
+        {
+            "Number": "2581",
+            "Artist": "Lil Nas X",
+            "SongName": "Old Town Road ft. Billy Ray Cyrus",
+            "Title": "[Just Dance]Old Town Road (Remix)",
+            "Platform": "JustDance",
+            "Difficulty": 3
+        },
+        {
+            "Number": "2603",
+            "Artist": "Black Eyed Peas",
+            "SongName": "Pump It",
+            "Title": "[Just Dance]Pump It",
+            "Platform": "JustDance",
+            "Difficulty": 5
+        },
+        {
+            "Number": "2619",
+            "Artist": "Avril Lavigne",
+            "SongName": "Rock N Roll",
+            "Title": "[Just Dance]Rock N Roll",
+            "Platform": "JustDance",
+            "Difficulty": 6
+        },
+        {
+            "Number": "2728",
+            "Artist": "Olly Murs",
+            "SongName": "Troublemaker ft. Flo Rida",
+            "Title": "[Just Dance]Troublemaker[Sweat]",
+            "Platform": "JustDance",
+            "Difficulty": 5
+        },
+        {
+            "Number": "2738",
+            "Artist": "Martin Garrix",
+            "SongName": "Uptown Funk",
+            "Title": "[Just Dance]Uptown Funk",
+            "Platform": "JustDance",
+            "Difficulty": 5
+        },
+        {
+            "Number": "2780",
+            "Artist": "Fifth Harmony",
+            "SongName": "Worth It",
+            "Title": "[Just Dance]Worth It",
+            "Platform": "JustDance",
+            "Difficulty": 4
+        },
+        {
+            "Number": "2805",
+            "Artist": "Bruno Mars",
+            "SongName": "24K Magic",
+            "Title": "[Just Dance Duet]24K Magic",
+            "Platform": "JustDance Duet",
+            "Difficulty": 3
+        },
+        {
+            "Number": "2812",
+            "Artist": "Martin Garrix",
+            "SongName": "Animals",
+            "Title": "[Just Dance Duet]Animals",
+            "Platform": "JustDance Duet",
+            "Difficulty": 3
+        },
+        {
+            "Number": "2950",
+            "Artist": "*",
+            "SongName": "POP STAR",
+            "Title": "[Just Dance Duet]POP STAR",
+            "Platform": "JustDance Duet",
+            "Difficulty": 2
+        },
+        {
+            "Number": "2958",
+            "Artist": "Clean Bandit",
+            "SongName": "Rockabye feat. Sean Pawl & Anne-Marie",
+            "Title": "[Just Dance Duet]Rockabye",
+            "Platform": "JustDance Duet",
+            "Difficulty": 3
+        },
+        {
+            "Number": "3121",
+            "Artist": "will.i.Am",
+            "SongName": "#thatPOWER ft. Justin Bieber",
+            "Title": "[Just Dance Crew]#thatPOWER",
+            "Platform": "JustDance Crew",
+            "Difficulty": 2
+        },
+        {
+            "Number": "3145",
+            "Artist": "NCT137",
+            "SongName": "Kick It",
+            "Title": "[Just Dance Crew]Kick It",
+            "Platform": "JustDance Crew",
+            "Difficulty": 2
+        },
+        {
+            "Number": "3169",
+            "Artist": "Luis Fonsi",
+            "SongName": "Despacito ft. Daddy Yankee",
+            "Title": "[Just Dance Crew]Despacito",
+            "Platform": "JustDance Crew",
+            "Difficulty": 4
+        },
+        {
+            "Number": "3222",
+            "Artist": "Village People",
+            "SongName": "Y.M.C.A",
+            "Title": "[Just Dance Crew]Y.M.C.A",
+            "Platform": "JustDance Crew",
+            "Difficulty": 5
+        }
+    ]
+}
